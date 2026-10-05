@@ -20,7 +20,8 @@ An end-to-end data analytics project analyzing weekly sales performance across 4
 walmart-sales-analysis/
 ├── notebooks/
 │   ├── 01_data_cleaning.ipynb   # Data type conversion, missing-value handling, table merges
-│   └── 02_eda.ipynb             # Exploratory analysis & sales visualizations (in progress)
+│   ├── 02_eda.ipynb             # Exploratory analysis & sales visualizations
+│   └── 03_sql_validation.ipynb  # SQLite database build & SQL/pandas cross-validation
 ├── .gitignore
 └── README.md
 ```
