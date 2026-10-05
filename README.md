@@ -10,9 +10,9 @@ An end-to-end data analytics project analyzing weekly sales performance across 4
 
 ## 🔑 Key Findings
 
-1. [To be added after EDA — e.g., "Holiday weeks show X% higher average weekly sales than non-holiday weeks."]
-2. [To be added after EDA — e.g., "Markdown promotions correlate with sales uplift in Y departments."]
-3. [To be added after EDA — e.g., "Store Type A outperforms other types by Z%."]
+1. **Store format drives performance**: Type A stores (avg 182K sq ft) generate $20,100 in average weekly sales — 2.1x the $9,520 of Type C stores (avg 41K sq ft).
+2. **Holidays lift sales +7.1%**: Holiday weeks average $17,036 in weekly sales vs $15,901 in non-holiday weeks, across all 45 stores.
+3. **Clean, analysis-ready dataset**: Audited 421,570 weekly records (Feb 2010-Oct 2012) — resolved negative sales anomalies, imputed missing values, and joined three tables with zero row loss.
 
 ## 📁 Repository Structure
 
