@@ -10,7 +10,7 @@ An end-to-end data analytics project analyzing weekly sales performance across 4
 - **Goal**: Analyze retail sales patterns, measure the impact of holidays and external economic factors (fuel price, CPI, unemployment), and identify key revenue drivers across store types.
 - **Dataset**: [Kaggle — Walmart Recruiting: Store Sales Forecasting](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting) (public dataset, weekly sales 2010–2012)
 - **Tools**: Python (pandas, NumPy, matplotlib, seaborn), Jupyter Notebook, Tableau
-- **Interactive Dashboard**: [Walmart Sales Analysis — Tableau Public](https://public.tableau.com/app/profile/dave.han6326/viz/1_17913157127880/1_1)
+- **Interactive Dashboard**: [Walmart Sales Analysis — Tableau Public](https://public.tableau.com/app/profile/dave.han6326/viz/WalmartStoreSalesAnalysis/1_1)
 
 
 ## 🔑 Key Findings
